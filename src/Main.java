@@ -15,7 +15,7 @@ public class Main {
         for (int i=0;i<ogrenciler.length;i++){
             System.out.println(ogrenciler[i]);
         }
-        System.out.println("----------------");
+        System.out.println("----3453453454534---");
 
         for(String ogrenci : ogrenciler){
             System.out.println(ogrenci);
